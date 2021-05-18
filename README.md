@@ -3,6 +3,10 @@
 - [My CV](https://burzomir.github.io/resume/)
 
   My CV in online version made with React ([source](https://github.com/burzomir/resume))
+  
+- [MiniKanban](https://burzomir.github.io/MiniKanban/)
+
+  My first project made in Elm lang
 
 - [Diament Meblarstwa](http://www.diamentmeblarstwa.pl)
 
